@@ -243,7 +243,7 @@ body{
 
 .buttons {
     padding: 60px;
-    min-width: 450px;
+    min-width: 350px;
     display: flex;
     justify-content: space-around;
 
@@ -264,6 +264,15 @@ body{
             transform: scale(1.2);
         }
     }
+}
+
+@media (max-width:340px) {
+    .buttons{
+        display: flex;
+        min-width: 350px;
+        margin-left: 2px;
+    }
+    
 }
 
 .fotix {
