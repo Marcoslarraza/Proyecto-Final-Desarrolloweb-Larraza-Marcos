@@ -112,12 +112,9 @@ body{
         justify-content: center;
     }
 
-    .buttons a{
-        justify-content: center;
+    .comentario img{
+        margin: 142px;
     }
-}
-* {
-    box-sizing: border-box;
 }
 
 
@@ -228,7 +225,7 @@ body{
         
         box-sizing: content-box;
         object-fit: cover;
-        margin: 90px;
+        margin: 100px;
         border-radius: 50%;
         background: #222020;
         box-shadow: 6px -6px 18px #0e0d0d,
@@ -337,9 +334,12 @@ body{
         display: grid;
         grid-template-columns: auto;
         
-           
+        img{
+            margin: 142px;
+        }  
         
     }
+    
 }
 
 
