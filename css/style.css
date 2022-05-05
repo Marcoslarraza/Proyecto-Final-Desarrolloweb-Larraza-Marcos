@@ -227,6 +227,7 @@ body {
 
 .comentario p {
   text-align: center;
+  margin: 20px;
 }
 
 .comentario__flex {
