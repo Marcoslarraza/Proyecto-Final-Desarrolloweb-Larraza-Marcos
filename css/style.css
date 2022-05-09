@@ -350,7 +350,7 @@ body {
         grid-template-columns: auto;
   }
   .comentario__flex img {
-    margin: 142px;
+    margin: 112px;
   }
 }
 
@@ -417,5 +417,9 @@ h1 {
 .fa {
   text-decoration: none;
   color: green;
+}
+
+.bi {
+  color: black;
 }
 /*# sourceMappingURL=style.css.map */

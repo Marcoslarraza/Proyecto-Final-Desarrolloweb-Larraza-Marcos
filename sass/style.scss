@@ -341,8 +341,9 @@ body{
         grid-template-columns: auto;
         
         img{
-            margin: 142px;
+            margin: 112px;
         }  
+       
         
     }
     
@@ -443,4 +444,7 @@ $color:(primary: #afec7de6,
     text-decoration: none;
     color: green;
     
+}
+.bi{
+    color: black;
 }
