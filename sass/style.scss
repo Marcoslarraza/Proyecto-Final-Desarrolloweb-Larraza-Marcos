@@ -448,3 +448,8 @@ $color:(primary: #afec7de6,
 .bi{
     color: black;
 }
+@media screen and (max-width:380px){
+    .comentario img{
+        margin: 90px;
+    }
+}
